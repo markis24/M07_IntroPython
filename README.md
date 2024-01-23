@@ -1,4 +1,4 @@
-# Ejercicios Ben Python
+# Ejercicios de Python
 
 ## Primeros ejercicios
 
@@ -14,14 +14,44 @@
 
 ## Listas ,Tuplas, Diccionarios
 
+9. **Estructuras de Datos i Explicación:**
+   - Ejemplo de una lista, una tupla y un diccionario, destacando sus diferencias.
 
+10. **Tupla de Meses:**
+   - Crear una tupla con los meses del año.
+   - Solicitar al usuario un número entre 0 y 12.
+   - Mostrar en pantalla el mes correspondiente al número ingresado por el usuario.
+
+11. **Ordenar Números:**
+   - Ingresa 10 números separados por espacios.
+   - Crea una tupla y ordénala según tu preferencia (mayor o menor).
+   - Muestra la tupla resultante.
+
+12. **Ordenar Palabras:**
+   - Pide 10 palabras diferentes en 10 entradas separadas.
+   - Almacénalas en una lista y muestra la lista ordenada alfabéticamente.
+
+13. **Contar Letras en Palabras:**
+   - Pide al usuario 2 palabras.
+   - Agrega las palabras a una lista y muestra la frecuencia de cada letra en la lista.
 
 ## XML I JSON
 
 Crear una función en Python que genere un archivo XML con las siguientes especificaciones:
 
-1. El elemento raíz debe ser llamado "students".
-2. Debe haber cinco elementos secundarios llamados "student".
-3. Cada elemento "student" debe contener cuatro subelementos llamados "name", "surname", "email" y "dni".
-4. Cada elemento "student" debe incluir un atributo con nombre y valor.
-5. Mostrar el contenido del XML generado por consola.
+**Requisitos XML:**
+
+1. **Elemento Raíz:**
+   - El elemento raíz debe ser denominado "students".
+
+2. **Elementos Secundarios:**
+   - Deben existir cinco elementos secundarios llamados "student".
+
+3. **Subelementos de "student":**
+   - Cada "student" debe contener cuatro subelementos: "name", "surname", "email" y "dni".
+
+4. **Atributos en "student":**
+   - Cada "student" debe tener un atributo con nombre y valor.
+
+5. **Visualización en Consola:**
+   - Mostrar el contenido del XML generado por consola.
